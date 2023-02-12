@@ -1,15 +1,15 @@
-# Nama Aplikasi
+# Login-Signup App 001
 
-Aplikasi ini dibuat menggunakan Flutter, framework cross-platform untuk pengembangan aplikasi mobile.
+This app is made using Flutter, a cross-platform framework for mobile app development.
 
-## Deskripsi
+## Description
 
-Tuliskan deskripsi singkat tentang aplikasi yang dibuat, seperti tujuan pembuatan, fitur-fitur utama, dan target pengguna.
+Flutter is a modern, open-source framework for building high-performance, high-fidelity, app experiences for iOS and Android from a single codebase. It was developed by Google and uses the Dart programming language. Flutter is known for its fast development cycle, expressive and flexible UI, and native performance. The framework includes a rich set of customizable widgets, tools, and libraries that make it easy to build beautiful and functional apps. It also has a growing community of developers and designers who are constantly contributing to the ecosystem. Whether you're building a simple MVP or a complex, data-driven app, Flutter has everything you need to create an outstanding user experience.
 
 ## Screenshot
 
-![Alt Text](assets/images/screenshots/image.jpg)
-![Alt Text](assets/images/screenshots/image2.png)
+![Alt Text](assets/screenshots/image.jpg)
+![Alt Text](assets/screenshots/image2.png)
 
 ## Getting Started
 
