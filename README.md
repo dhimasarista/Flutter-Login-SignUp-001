@@ -8,8 +8,8 @@ Tuliskan deskripsi singkat tentang aplikasi yang dibuat, seperti tujuan pembuata
 
 ## Screenshot
 
-![Alt Text]("assets/images/screenshots/image.jpg")
-![Alt Text]("assets/images/screenshots/image2.png")
+![Alt Text](assets/images/screenshots/image.jpg)
+![Alt Text](assets/images/screenshots/image2.png)
 
 ## Getting Started
 
